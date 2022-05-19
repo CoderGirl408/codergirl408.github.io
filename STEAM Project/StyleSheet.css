@@ -1,0 +1,10 @@
+table, th, td {
+    border: 1px solid black;
+  }
+
+  tr:hover {background-color: greenyellow;}
+
+  th {
+    background-color: #61eb54;
+    color: black;
+  }
